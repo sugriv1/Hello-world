@@ -3,4 +3,4 @@ My First Repository
 
 Hi we are learning git
 
-Changes by sugriv
+Rakesh 
